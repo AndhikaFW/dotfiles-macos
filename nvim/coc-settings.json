@@ -1,0 +1,6 @@
+{
+  "snippets.ultisnips.pythonPrompt": false,
+  "snippets.userSnippetsDirectory": "~/.config/nvim/snippets",
+  "coc.preferences.formatOnSave": true,
+  "prettier.resolveGlobalModules": false
+}
